@@ -32,13 +32,13 @@
     font-weight: 500;
     padding: 10px 20px;
     transition: 0.2s;
-    border-radius: 50px;
+    border-radius: 20px;
     letter-spacing: 1px;
     user-select: none;
 }
 
 .header nav ul li a:hover{
-    background-color: var(--cor-primaria);;
+    background-color: var(--cor-primaria);
     color: var(--cor-branca);
 }
 
